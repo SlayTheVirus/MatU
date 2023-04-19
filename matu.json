@@ -1,6 +1,6 @@
 {
 	"name": "Matu Dark [Material You]",
-	"description": "Comfy gray-blue theme",
+	"description": "Vendetta Theme that adds MaterialUI",
 	"authors": [
 		{
 			"name": "gem",
@@ -10,7 +10,7 @@
 	"semanticColors": {
 		"KEYBOARD": [
 			"system_neutral2_980",
-			"#FFFFFF"
+			"system_neutral2_1000"
 		],
 		"HEADER_PRIMARY": [
 			"system_neutral2_900",
