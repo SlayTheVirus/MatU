@@ -8,6 +8,10 @@
 		}
 	],
 	"semanticColors": {
+		"KEYBOARD": [
+			"system_neutral2_980",
+			"#FFFFFF"
+		],
 		"HEADER_PRIMARY": [
 			"system_neutral2_900",
 			"system_neutral2_1000"
@@ -122,7 +126,7 @@
 		],
 		"TEXT_LINK": [
 			"system_accent1_300",
-			"system_accent1_400"
+			"#system_accent1_400"
 		],
 		"CHANNEL_ICON": [
 			"system_accent1_300",
