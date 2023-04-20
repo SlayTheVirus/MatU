@@ -9,132 +9,132 @@
 	],
 	"semanticColors": {
 		"KEYBOARD": [
-			"@color/system_neutral2_980",
+			"@android:color/system_neutral2_980",
 			"#FFFFFF"
 		],
 		"HEADER_PRIMARY": [
-			"@color/system_neutral2_900",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_900",
+			"@android:color/system_neutral2_1000"
 		],
 		"HEADER_SECONDARY": [
-			"@color/system_neutral1_400",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_400",
+			"@android:color/system_neutral2_1000"
 		],
 		"TEXT_NORMAL": [
-			"@color/system_neutral1_0",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_0",
+			"@android:color/system_neutral2_1000"
 		],
 		"TEXT_MUTED": [
-			"@color/system_neutral1_200",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_200",
+			"@android:color/system_neutral2_1000"
 		],
 		"INTERACTIVE_NORMAL": [
-			"@color/system_accent1_300",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_300",
+			"@android:color/system_neutral2_1000"
 		],
 		"INTERACTIVE_HOVER": [
-			"@color/system_accent1_400",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_400",
+			"@android:color/system_neutral2_1000"
 		],
 		"INTERACTIVE_ACTIVE": [
-			"@color/system_accent1_400",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_400",
+			"@android:color/system_neutral2_1000"
 		],
 		"INTERACTIVE_MUTED": [
-			"@color/system_neutral2_400",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_400",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_PRIMARY": [
-			"@color/system_neutral1_900",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_900",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_SECONDARY": [
-			"@color/system_neutral2_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_SECONDARY_ALT": [
-			"@color/system_neutral2_900",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_900",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_TERTIARY": [
-			"@color/system_neutral2_1000",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_1000",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_ACCENT": [
-			"@color/system_accent1_300",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_300",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_FLOATING": [
-			"@color/system_neutral1_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_MOBILE_PRIMARY": [
-			"@color/system_neutral1_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_MOBILE_SECONDARY": [
-			"@color/system_neutral2_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_NESTED_FLOATING": [
-			"@color/system_neutral1_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_MESSAGE_HOVER": [
-			"@color/system_neutral1_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_HOVER": [
-			"@color/system_neutral1_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-			"@color/system_neutral1_900",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_900",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_SELECTED": [
-			"@color/system_neutral1_800",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral1_800",
+			"@android:color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_ACCENT": [
-			"@color/system_accent1_300",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_300",
+			"@android:color/system_neutral2_1000"
 		],
 		"SCROLLBAR_THIN_THUMB": [
-			"#292929@color/system_accent1_300",
-			"@color/system_neutral2_1000"
+			"#292929@android:color/system_accent1_300",
+			"@android:color/system_neutral2_1000"
 		],
 		"SCROLLBAR_THIN_TRACK": [
 			"transparent",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_1000"
 		],
 		"SCROLLBAR_AUTO_THUMB": [
-			"@color/system_accent1_300",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_300",
+			"@android:color/system_neutral2_1000"
 		],
 		"SCROLLBAR_AUTO_TRACK": [
 			"rgba(0, 0, 0, 0.1)",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_1000"
 		],
 		"CHANNELTEXTAREA_BACKGROUND": [
 			"transparent",
-			"@color/system_neutral2_1000"
+			"@android:color/system_neutral2_1000"
 		],
 		"CHANNELS_DEFAULT": [
-			"@color/system_accent1_300",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_300",
+			"@android:color/system_neutral2_1000"
 		],
 		"TEXT_LINK": [
-			"@color/system_accent1_300",
-			"#@color/system_accent1_400"
+			"@android:color/system_accent1_300",
+			"#@android:color/system_accent1_400"
 		],
 		"CHANNEL_ICON": [
-			"@color/system_accent1_300",
-			"@color/system_accent1_400"
+			"@android:color/system_accent1_300",
+			"@android:color/system_accent1_400"
 		],
 		"CHAT_BACKGROUND": [
-			"@color/system_accent1_300",
-			"@color/system_neutral2_1000"
+			"@android:color/system_accent1_300",
+			"@android:color/system_neutral2_1000"
 		]
 	},
 	"rawColors": {
