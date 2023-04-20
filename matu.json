@@ -1,6 +1,6 @@
 {
 	"name": "Matu Dark [Material You]",
-	"description": "Vendetta Theme that adds MaterialUI",
+	"description": "Comfy gray-blue theme",
 	"authors": [
 		{
 			"name": "gem",
@@ -9,132 +9,132 @@
 	],
 	"semanticColors": {
 		"KEYBOARD": [
-			"system_neutral2_900",
-			"system_neutral2_1000"
+			"@color/system_neutral2_980",
+			"#FFFFFF"
 		],
 		"HEADER_PRIMARY": [
-			"system_neutral2_900",
-			"system_neutral2_1000"
+			"@color/system_neutral2_900",
+			"@color/system_neutral2_1000"
 		],
 		"HEADER_SECONDARY": [
-			"system_neutral1_400",
-			"system_neutral2_1000"
+			"@color/system_neutral1_400",
+			"@color/system_neutral2_1000"
 		],
 		"TEXT_NORMAL": [
-			"system_neutral1_0",
-			"system_neutral2_1000"
+			"@color/system_neutral1_0",
+			"@color/system_neutral2_1000"
 		],
 		"TEXT_MUTED": [
-			"system_neutral1_200",
-			"system_neutral2_1000"
+			"@color/system_neutral1_200",
+			"@color/system_neutral2_1000"
 		],
 		"INTERACTIVE_NORMAL": [
-			"system_accent1_300",
-			"system_neutral2_1000"
+			"@color/system_accent1_300",
+			"@color/system_neutral2_1000"
 		],
 		"INTERACTIVE_HOVER": [
-			"system_accent1_400",
-			"system_neutral2_1000"
+			"@color/system_accent1_400",
+			"@color/system_neutral2_1000"
 		],
 		"INTERACTIVE_ACTIVE": [
-			"system_accent1_400",
-			"system_neutral2_1000"
+			"@color/system_accent1_400",
+			"@color/system_neutral2_1000"
 		],
 		"INTERACTIVE_MUTED": [
-			"system_neutral2_400",
-			"system_neutral2_1000"
+			"@color/system_neutral2_400",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_PRIMARY": [
-			"system_neutral1_900",
-			"system_neutral2_1000"
+			"@color/system_neutral1_900",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_SECONDARY": [
-			"system_neutral2_800",
-			"system_neutral2_1000"
+			"@color/system_neutral2_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_SECONDARY_ALT": [
-			"system_neutral2_900",
-			"system_neutral2_1000"
+			"@color/system_neutral2_900",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_TERTIARY": [
-			"system_neutral2_1000",
-			"system_neutral2_1000"
+			"@color/system_neutral2_1000",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_ACCENT": [
-			"system_accent1_300",
-			"system_neutral2_1000"
+			"@color/system_accent1_300",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_FLOATING": [
-			"system_neutral1_800",
-			"system_neutral2_1000"
+			"@color/system_neutral1_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_MOBILE_PRIMARY": [
-			"system_neutral1_800",
-			"system_neutral2_1000"
+			"@color/system_neutral1_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_MOBILE_SECONDARY": [
-			"system_neutral2_800",
-			"system_neutral2_1000"
+			"@color/system_neutral2_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_NESTED_FLOATING": [
-			"system_neutral1_800",
-			"system_neutral2_1000"
+			"@color/system_neutral1_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_MESSAGE_HOVER": [
-			"system_neutral1_800",
-			"system_neutral2_1000"
+			"@color/system_neutral1_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_HOVER": [
-			"system_neutral1_800",
-			"system_neutral2_1000"
+			"@color/system_neutral1_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-			"system_neutral1_900",
-			"system_neutral2_1000"
+			"@color/system_neutral1_900",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_SELECTED": [
-			"system_neutral1_800",
-			"system_neutral2_1000"
+			"@color/system_neutral1_800",
+			"@color/system_neutral2_1000"
 		],
 		"BACKGROUND_MODIFIER_ACCENT": [
-			"system_accent1_300",
-			"system_neutral2_1000"
+			"@color/system_accent1_300",
+			"@color/system_neutral2_1000"
 		],
 		"SCROLLBAR_THIN_THUMB": [
-			"#292929system_accent1_300",
-			"system_neutral2_1000"
+			"#292929@color/system_accent1_300",
+			"@color/system_neutral2_1000"
 		],
 		"SCROLLBAR_THIN_TRACK": [
 			"transparent",
-			"system_neutral2_1000"
+			"@color/system_neutral2_1000"
 		],
 		"SCROLLBAR_AUTO_THUMB": [
-			"system_accent1_300",
-			"system_neutral2_1000"
+			"@color/system_accent1_300",
+			"@color/system_neutral2_1000"
 		],
 		"SCROLLBAR_AUTO_TRACK": [
 			"rgba(0, 0, 0, 0.1)",
-			"system_neutral2_1000"
+			"@color/system_neutral2_1000"
 		],
 		"CHANNELTEXTAREA_BACKGROUND": [
 			"transparent",
-			"system_neutral2_1000"
+			"@color/system_neutral2_1000"
 		],
 		"CHANNELS_DEFAULT": [
-			"system_accent1_300",
-			"system_neutral2_1000"
+			"@color/system_accent1_300",
+			"@color/system_neutral2_1000"
 		],
 		"TEXT_LINK": [
-			"system_accent1_300",
-			"#system_accent1_400"
+			"@color/system_accent1_300",
+			"#@color/system_accent1_400"
 		],
 		"CHANNEL_ICON": [
-			"system_accent1_300",
-			"system_accent1_400"
+			"@color/system_accent1_300",
+			"@color/system_accent1_400"
 		],
 		"CHAT_BACKGROUND": [
-			"system_accent1_300",
-			"system_neutral2_1000"
+			"@color/system_accent1_300",
+			"@color/system_neutral2_1000"
 		]
 	},
 	"rawColors": {
